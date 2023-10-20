@@ -19,7 +19,7 @@
   </li>
   <h1 align="center">𝑆𝘱𝑜𝘵𝑖𝘧𝑦</h1>
   <br>
-  <img src="https://minato-spotify-playing.vercel.app/api/spotify/?border_color=ffffff" align="right" />
+  <img src="https://minato-spotify-playing.vercel.app/api/spotify/?border_color=7E37F9" align="right" />
   <p>
     I like j-pop songs, but lately I like lofi type musics
   </p>
