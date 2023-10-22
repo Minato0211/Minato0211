@@ -26,6 +26,7 @@
   <p>
     My favorite band is Yorushika!
   </p>
+  
 </body>
 <!---
 - 👋 Hi, I’m @Minato0211
