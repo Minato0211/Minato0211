@@ -4,7 +4,7 @@
   </div>
   <h1 align="center">~ 𝑊𝘦𝑙𝘤𝑜𝘮𝑒 𝑡𝘰 𝘮𝑦 𝑝𝘳𝑜𝘧𝑖𝘭𝑒 ~</h1>
   <br>
-  <img src="https://lanyard.kyrie25.me/api/830550056750809089?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" align="right"/>
+  <img src="https://lanyard.kyrie25.me/api/571723571983024140?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" align="right"/>
   <li>
     <b>Name:</b> Fled/Nuuuuu
   </li>
