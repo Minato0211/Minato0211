@@ -6,7 +6,7 @@
   <br>
   <img src="https://lanyard.kyrie25.me/api/571723571983024140?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" align="right"/>
   <li>
-    <b>Name:</b> Minato/Fled(fred)
+    <b>Name:</b> Minato/Fred
   </li>
   <li>
     <b>Loves:</b> Anime, Genshin, Blue Archive
